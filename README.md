@@ -3,7 +3,9 @@ Baseando-se no desenvolvimento do netcat, e utilizando alguns recursos como livr
 
 **ZUM Net Tool**
 
-To use the tool: zum.py -t target_host -p port
+To use the tool: `zum.py -t target_host -p port` 
+or
+`python2.7 zum.py -t target_host -p port`
 
 ```
 -l --listen                   - listen on [host]:[port] for incoming connections
