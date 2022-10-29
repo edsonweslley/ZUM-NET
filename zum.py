@@ -23,14 +23,14 @@ def usage():
     print "To use the tool: zum.py -t target_host -p port"
 
     print "-l --listen                   - listen on [host]:[port] for incoming connections"
-    print "-e --execution                - execute the given file upon receiving a connections"
+    print "-e --execution                - execute the given file upon receiving a connection"
     print "-c --command                  - initialize a command shell"
     print "-u --upload=destination       - upon receiving connection upload a file and write to [destination]"
     
     print 
     print 
     
-    print "Exemples: "
+    print "Examples: "
     print 
     print "zum.py -t 192.168.0.1 -p 5555 -l -c"
     print "zum.py -t 192.168.0.1 -p 5555 -l -u=c:\\target.exe"
