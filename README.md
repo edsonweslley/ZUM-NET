@@ -1,5 +1,5 @@
 # ZUM-NET
-Baseando-se no desenvolvimento do netcat, e utilizando alguns recursos bibliográficos, aqui está uma versão menos robusta do netcat.
+Baseando-se no desenvolvimento do netcat, e utilizando alguns recursos bibliográficos, aqui está uma versão menos robusta do netcat. Com algum nível de aperfeiçoamento vamos causar um verdadeiro ZUM ZUM ZUM no mercado.
 
 **ZUM Net Tool**
 
