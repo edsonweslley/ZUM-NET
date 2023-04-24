@@ -19,3 +19,5 @@ or
 <p><em>zum.py -t 192.168.0.1 -p 5555 -l -u=c:\target.exe</p></em>
 <p><em>zum.py -t 192.168.0.1 -p 5555 -l -e='cat /etc/passwd'</p></em>
 <p><em>echo 'ZUMMMMMMM' | ./zum.py -t 192.111.22.33 -p 135</p></em>
+
+### <em>Author: Edson Weslley</em>
